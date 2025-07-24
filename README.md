@@ -10,7 +10,7 @@ DexChat is a full-stack, real-time team chat application built with Convex and C
 - ☁️ Serverless backend with Convex (no need to manage your own DB)
 - 📁 Organized structure for scalable feature expansion
   
-## Project structure
+## Project Structure
   
 The frontend code is in the `app` directory and is built with [Vite](https://vitejs.dev/).
   
