@@ -27,7 +27,7 @@ export function ChatApp() {
       {/* Header */}
       <header className="h-12 bg-purple-600 text-white flex items-center justify-between px-4 shadow-sm">
         <div className="flex items-center gap-4">
-          <h1 className="text-lg font-semibold">Slack Clone</h1>
+          <h1 className="text-lg font-semibold">DexChat</h1>
           <SearchBar 
             onSearch={setSearchQuery} 
             onToggleSearch={() => setShowSearch(!showSearch)}
