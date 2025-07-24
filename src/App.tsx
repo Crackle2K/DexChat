@@ -13,13 +13,13 @@ export default function App() {
       </Authenticated>
       <Unauthenticated>
         <header className="sticky top-0 z-10 bg-white/80 backdrop-blur-sm h-16 flex justify-between items-center border-b shadow-sm px-4">
-          <h2 className="text-xl font-semibold text-primary">Slack Clone</h2>
+          <h2 className="text-xl font-semibold text-primary">DexChat</h2>
         </header>
         <main className="flex-1 flex items-center justify-center p-8">
           <div className="w-full max-w-md mx-auto">
             <div className="flex flex-col gap-section">
               <div className="text-center">
-                <h1 className="text-5xl font-bold text-primary mb-4">Welcome to Slack Clone</h1>
+                <h1 className="text-5xl font-bold text-primary mb-4">Welcome To DexChat</h1>
                 <p className="text-xl text-secondary">Sign in to start chatting</p>
               </div>
               <SignInForm />
