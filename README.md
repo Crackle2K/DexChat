@@ -21,3 +21,5 @@ The backend code is in the `convex` directory.
 ## HTTP API
 
 User-defined http routes are defined in the `convex/router.ts` file. We split these routes into a separate file from `convex/http.ts` to allow us to prevent the LLM from modifying the authentication routes.
+
+(This Project Will Likely Never Be Released)
